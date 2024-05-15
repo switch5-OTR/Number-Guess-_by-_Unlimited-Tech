@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import random
 
 # Set the number to be guessed
